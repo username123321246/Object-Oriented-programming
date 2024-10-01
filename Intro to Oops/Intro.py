@@ -10,7 +10,7 @@ class Students():
     # Constructor
 
     def __init__(self):
-        print ("making_a_new_student")
+        print ("making a new student object")
 
     # Another function
 
